@@ -1,7 +1,7 @@
 Nombre, año, dataC
-A1, A2013, http://127.0.0.1:8887/data%203%20-%20copia.tsv
-A2, A2014, http://127.0.0.1:8887/data%203%20-%20copia%20-%202014.tsv
-B1, A2013, http://127.0.0.1:8887/data%203%20-%20copia%20-%202015.tsv
-B2, A2014, http://127.0.0.1:8887/data%203%20-%20copia%20-%202016.tsv
-C1, A2013, http://127.0.0.1:8887/data%203%20-%20copia(3)%20-%202014.tsv
-C2, A2014, http://127.0.0.1:8887/data%203%20-%20copia(3)%20-%202014.tsv
+A1, A2013, https://raw.githubusercontent.com/pihnen2/IDI2/master/data%203%20-%20copia(3).csv
+A2, A2014, https://raw.githubusercontent.com/pihnen2/IDI2/master/data%203%20-%20copia%20-%202014.csv
+B1, A2013, https://raw.githubusercontent.com/pihnen2/IDI2/master/data%203%20-%20copia%20-%202015.csv
+B2, A2014, https://raw.githubusercontent.com/pihnen2/IDI2/master/data%203%20-%20copia%20-%202016.csv
+C1, A2013, https://raw.githubusercontent.com/pihnen2/IDI2/master/data%203%20-%20copia(2).csv
+C2, A2014, https://raw.githubusercontent.com/pihnen2/IDI2/master/data%203%20-%20copia(3)%20-%202014.csv
